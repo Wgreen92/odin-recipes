@@ -1,0 +1,46 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+  margin: 10px;
+}
+
+#header {
+  text-align: center;
+  margin: 20px;
+  padding: auto;
+}
+
+h1, h2, h3 {
+  margin: 10px;
+}
+
+p {
+  margin-left: 25px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 35px;
+}
+
+ol {
+  margin-left: 35px;
+  list-style-type: upper-roman;
+}
+
+li {
+  padding: 5px;
+}
+
+a {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  margin: 15px;
+  text-align: center;
+}
